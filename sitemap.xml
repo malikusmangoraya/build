@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://build.com</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://build.com/en"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://build.com/es"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://build.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://build.com"/>
+  </url>
+  <url>
+    <loc>https://build.com/products</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://build.com/en/products"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://build.com/es/products"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://build.com/fr/products"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://build.com/products"/>
+  </url>
+  <url>
+    <loc>https://build.com/about</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://build.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://build.com/es/about"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://build.com/fr/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://build.com/about"/>
+  </url>
+  <url>
+    <loc>https://build.com/contact</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://build.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://build.com/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://build.com/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://build.com/contact"/>
+  </url>
+  <url>
+    <loc>https://build.com/blog</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://build.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://build.com/es/blog"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://build.com/fr/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://build.com/blog"/>
+  </url>
+  <url>
+    <loc>https://build.com/faq</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://build.com/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://build.com/es/faq"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://build.com/fr/faq"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://build.com/faq"/>
+  </url>
+</urlset>
