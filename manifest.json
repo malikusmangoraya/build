@@ -1,7 +1,7 @@
 {
-  "name": "Build",
-  "short_name": "Build",
-  "description": "Professional, fast, and built to turn visitors into customers.",
+  "name": "Build 012",
+  "short_name": "Build-012",
+  "description": "A faster, smarter online store. Browse, buy, and track in minutes.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f172a",
@@ -17,6 +17,6 @@
     { "src": "/icons/icon-384x384.png", "sizes": "384x384", "type": "image/png" },
     { "src": "/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ],
-  "categories": ["Consumer Electronics"],
+  "categories": ["electronics"],
   "screenshots": []
 }
